@@ -69,9 +69,8 @@ React Native application connected to a modular backend built with Node.js, Expr
 
 Implementation of distributed communication mechanisms including REST, MQTT and gRPC, combined with load balancing across multiple machines.
 
-### Information Security Projects
-
-Development of encryption systems, SSL/TLS secured communications and authentication services using OpenLDAP.
+### Security & Dev Tools
+Symmetric & Asymmetric Encryption • Container Security • Network Isolation (Docker) • Git Flow
 
 ### Multiplayer 2D Game
 
