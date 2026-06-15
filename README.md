@@ -1,16 +1,95 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GeanfrancoGPD/GeanfrancoGPD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Geanfranco Piccioni
 
-Here are some ideas to get you started:
+### Computer Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building software, learning continuously and exploring software architecture, distributed systems and mobile development.
+
+</div>
+
+---
+
+## About Me
+
+I'm a Computer Engineering student focused on software development and system design.
+
+I enjoy understanding how technologies work internally and applying that knowledge through practical projects. My main interests include backend architecture, distributed systems, cybersecurity and mobile application development.
+
+Currently working with:
+
+* Node.js & Express
+* React Native
+* Angular + Ionic
+* PostgreSQL
+* Docker
+* Git & GitHub
+
+---
+
+## Tech Stack
+
+### Languages
+
+JavaScript • TypeScript • SQL • GDScript
+
+### Backend
+
+Node.js • Express.js • REST APIs • Express Session
+
+### Frontend & Mobile
+
+React Native • Angular • Ionic • Vue.js
+
+### Databases
+
+PostgreSQL • Neon 
+
+### Distributed Systems
+
+REST • gRPC • MQTT • Load Balancing
+
+### Security
+
+SSL/TLS • OpenLDAP • Symmetric Encryption • Asymmetric Encryption
+
+### Tools
+
+Git • GitHub • Docker • Linux
+
+---
+
+## Featured Projects
+
+### Mobile Recipe Application
+
+React Native application connected to a modular backend built with Node.js, Express and PostgreSQL.
+
+### Distributed Systems Laboratory
+
+Implementation of distributed communication mechanisms including REST, MQTT and gRPC, combined with load balancing across multiple machines.
+
+### Information Security Projects
+
+Development of encryption systems, SSL/TLS secured communications and authentication services using OpenLDAP.
+
+### Multiplayer 2D Game
+
+Godot-based multiplayer game prototype with network synchronization and gameplay mechanics.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GeanfrancoGPD&show_icons=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeanfrancoGPD&layout=compact" />
+</p>
+
+---
+
+## Contact
+
+Email: [piccionigeanfranco@gmail.com](piccionigeanfranco@gmail.com)
+
+LinkedIn: Coming soon
